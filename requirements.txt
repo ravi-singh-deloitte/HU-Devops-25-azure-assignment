@@ -1,6 +1,7 @@
 azure-identity
 azure-mgmt-storage
 azure-mgmt-resource
+azure-mgmt-web
 azure-mgmt-appcontainers
 azure-mgmt-containerregistry
 python-dotenv
