@@ -5,6 +5,8 @@ azure-mgmt-web
 azure-mgmt-appcontainers
 azure-mgmt-containerregistry
 python-dotenv
+azure-storage-blob
+azure-functions
 
 
 
